@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Sample Demo App</h1>
-    <p>DRTHA</p>
+    <p>DilRob - THA</p>
     <hr>
      
     <label for="Name"><b>Name</b></label>
