@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Sample Demo App</h1>
+    <h1>Sample Demo App - Maven Comp</h1>
     <p>DilRob - THA</p>
     <hr>
      
@@ -28,7 +28,7 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p>Returning User? <a href="#">Sign in</a>.</p>
   </div>
   
 </form>
