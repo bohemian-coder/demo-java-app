@@ -1,2 +1,2 @@
 # demo-java-app
-DR_THA_DemoApp
+A demo Java application to practice containerization, orchestration and CICD pipeline tasks
